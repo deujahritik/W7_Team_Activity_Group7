@@ -1,4 +1,4 @@
-# W7_Team_Activity_Group7
+# W7_Team_Activity_Team_6
 # Implementng face detection system
 ## Step 1: Setting up the Raspberry Pi
 
