@@ -2,7 +2,7 @@
 # Implementng face detection system
 ## Step 1: Setting up the Raspberry Pi
 
-We will begin by setting up the Raspberry Pi. Follow the instructions given in the Raspberry Pi Setup Guide to set up your Raspberry Pi.
+We will begin by setting up the Raspberry Pi. Follow the instructions given in the Raspberry Pi Setup Guide to set up your Raspberry Pi. https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up
 
 ## Step 2: Installing OpenCV on Raspberry Pi
 
